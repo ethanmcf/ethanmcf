@@ -4,7 +4,7 @@ I'm Ethan, a devoted CS student at UofT, with and array of hands-on experience.
 ## 🔧 Technologies & Tools
 
 - **Programming**:  Java, Python, ReactNative, JavaScript, React.js
-- **Database/Tools**:  IntelliJ, VsCode, Xcode, Google Firebase, SQL
+- **Database/Tools**:  IntelliJ, VsCode, Xcode, Google Firebase, SQL, Selenium
 - **Development**: Agile, Jira, Confluence
 
 ## 🌱 My Interests
