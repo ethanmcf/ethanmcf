@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Ethan, a devoted CS student at UofT, with and array of hands-on experience.
+I'm Ethan, a devoted CS student at UofT, with an array of hands-on experience.
 ## 🔧 Technologies & Tools
 
 - **Programming**:  Java, Python, ReactNative, JavaScript, React.js
