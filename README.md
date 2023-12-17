@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**ethanmcf/ethanmcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ethan, a devoted CS student at UofT, with and array of hands-on experience.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+- **Programming**:  Java, Python, ReactNative, JavaScript, React.js
+- **Database/Tools**:  IntelliJ, VsCode, Xcode, Google Firebase, SQL
+- **Development**: Agile, Jira, Confluence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 My Interests
+- 🔒 Cyber Security
+- 🧠 Machine Learning
+- 🤖 Artificial Intelligence
+
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanmcf&show_icons=true&theme=radical)](https://github.com/ethanmcf)
+
+
+## 👋 Before you go
+
+**Why do programmers prefer dark chocolate?** <br>
+Because it's bitter. Like their code reviews.
+
+Thanks for visiting my profile! 😄
