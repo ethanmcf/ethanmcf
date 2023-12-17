@@ -14,7 +14,7 @@ I'm Ethan, a devoted CS student at UofT, with and array of hands-on experience.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanmcf&show_icons=true&theme=radical)](https://github.com/ethanmcf)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanmcf&show_icons=true&theme=dark)](https://github.com/ethanmcf)
 
 
 ## 👋 Before you go
